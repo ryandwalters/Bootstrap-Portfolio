@@ -1,0 +1,35 @@
+
+.navbar-brand{
+
+        width: 250px;
+        height: 90px;
+        font-family: Arial, "Helvetisa Neue", Helvetica, sans-serif;
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 90px;
+
+        text-align: center;
+        text-decoration: none;
+        background: teal;
+}
+
+
+h2 {
+  text-align: center;
+}
+.sidebarheader {
+  boar
+}
+
+.img-thumbnail {
+  width: 30%;
+}
+.sidebar {
+  width: 100%;
+}
+.panel-body {
+  text-align: center;
+}
+
+
+
